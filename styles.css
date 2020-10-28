@@ -32,7 +32,7 @@ nav#header ul li a#signIn {
 }
 
 a#apps {
-  background: url('') top right no-repeat;
+  background: url('assets/apps.PNG') top right no-repeat;
   width: 15px;
   height: 15px;
   background-size: 140%;
@@ -42,7 +42,7 @@ a#apps {
 h1#logo {
   width: 272px;
   height: 92px;
-  background: ('images/google_logo.png') top left no-repeat;
+  background: ('assets/google_logo.png') top left no-repeat;
   background-size: 100%;
   text-indent: -9999px;
   margin: 0 auto;
