@@ -42,7 +42,7 @@ a#apps {
 h1#logo {
   width: 272px;
   height: 92px;
-  background: ('assets/google_logo.png') top left no-repeat;
+  background: url('assets/google_logo.png') top left no-repeat;
   background-size: 100%;
   text-indent: -9999px;
   margin: 0 auto;
