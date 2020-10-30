@@ -68,7 +68,7 @@ input[type="search"]:hover
 input[type="submit"]
 {
   background: #f2f2f2;
-  color: "#5F6368";
+  color: #5F6368;
   border: solid 1px #f2f2f2;
   padding: 0px 16px;
   font-size: 14px;
@@ -88,24 +88,21 @@ input[type="submit"]:hover
 
 small{
   display: block;
+  margin: 10px 0 0 0;
+  font-size: 12px;
 }
 
 a:link, a:visited {
   color: blue;
 }
 
-nav.header {
-  float: right;
-  color: #f2f2f2;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-  font-size: 17px;
+nav#header {
+  text-align: right;
+  padding:20px;
 }
 
 nav#header ul li {
-  list-style: none;
-  display: block;
+  display: inline;
 }
 
 
@@ -133,7 +130,6 @@ footer {
 footer nav {
   padding: 20px;
 }
-
 
 footer  nav ul li{
   display: inline;
