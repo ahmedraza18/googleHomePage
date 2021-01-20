@@ -1,0 +1,1 @@
+A static google homepage
